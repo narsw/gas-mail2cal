@@ -54,5 +54,8 @@
       "json",
       "node"
     ]
+  },
+  "dependencies": {
+    "fsevents": "^1.2.4"
   }
 }
